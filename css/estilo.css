@@ -1,0 +1,212 @@
+                #site {
+                    background-color: #2b3d4f;
+                }
+                
+                #site-interno {
+                    max-width: 980px;
+                    width: 100%;
+                    margin: 0 auto;
+                }
+                
+                .titulo-portifolio {
+                    display: flex;
+                    align-items: center;
+                    flex-direction: column;
+                    color: #FC4449;
+                    font-family: 'Montserrat', sans-serif;
+                    margin-top: 1.5%;
+                    margin-bottom: 1.5%;
+                    font-size: 3em;
+                    width: 100%;
+                }
+                
+                #logo img {
+                    float: left;
+                    display: inline-block;
+                    width: 22%;
+                    height: 120px;
+                    position: relative;
+                    top: 10px;
+                    left: 12%;
+                }
+                
+                #site-interno {
+                    max-width: 980px;
+                    width: 100%;
+                    margin: 0 auto;
+                }
+                
+                .row {
+                    margin-top: 32px;
+                }
+                
+                .col-md-4 {
+                    text-align: center;
+                    color: #fff;
+                    font-family: 'Montserrat', sans-serif;
+                }
+                
+                .col-md-4 h2 {
+                    color: #FC4449;
+                }
+                
+                .col-md-4 p {
+                    font-size: 1.2em;
+                }
+                
+                .col-md-4 img {
+                    width: 100%;
+                    margin-top: 5%;
+                }
+                
+                .col-md-4:last-child img {
+                    width: 92.5%;
+                }
+                
+                #menu {
+                    margin-left: 48%;
+                    padding-top: 4%;
+                }
+                
+                #topo li {
+                    display: inline-block;
+                    text-decoration: none;
+                    text-indent: 3%;
+                    color: #fff;
+                    font-size: 20px;
+                    font-family: 'Montserrat', sans-serif;
+                }
+                
+                #topo li a {
+                    text-decoration: none;
+                    color: #2b3d4f;
+                    margin-right: 50px;
+                }
+                
+                #topo li a:active {
+                    color: #2b3d4f;
+                }
+                
+                #topo li a:hover {
+                    color: #fff;
+                }
+                
+                #topo li:last-child a {
+                    color: #FC4449;
+                }
+                
+                #topo {
+                    background-color: #6ebddb;
+                    height: 130px;
+                }
+                
+                #menu {
+                    width: 70%;
+                }
+                
+                #topo-interno {
+                    max-width: 1336px;
+                    width: 100%;
+                    margin: auto;
+                }
+                
+                #Sobre {
+                    background-color: #2b3d4f;
+                    width: 100%;
+                }
+                
+                #Sobre-interno p a {
+                    color: #fff;
+                    text-decoration: none;
+                }
+                
+                #Sobre-interno p a:active {
+                    color: #fff;
+                }
+                
+                #Sobre-interno a:hover {
+                    color: #FC4449;
+                    padding: 2%;
+                }
+                
+                #Sobre-interno {
+                    background-color: #2b3d4f;
+                    max-width: 980px;
+                    width: 100%;
+                    margin: 0 auto;
+                    display: flex;
+                    align-items: center;
+                    flex-direction: column;
+                }
+                
+                #Sobre-interno p {
+                    text-align: justify;
+                    width: 60%;
+                }
+                
+                #Sobre-interno p:last-child {
+                    text-align: center;
+                }
+                
+                #Sobre-interno h3 {
+                    color: #fff;
+                }
+                
+                .titulo-sobre {
+                    display: flex;
+                    align-items: center;
+                    flex-direction: column;
+                    color: #FC4449;
+                    font-family: 'Montserrat', sans-serif;
+                    margin-top: 1.5%;
+                    margin-bottom: 1.5%;
+                    font-size: 3em;
+                    width: 100%;
+                }
+                
+                #Sobre-interno img {
+                    width: 50%;
+                    margin-top: 5%;
+                }
+                
+                #Sobre-interno p {
+                    color: #fff;
+                    font-size: 20px;
+                    margin-top: 0.5%;
+                }
+                
+                #rodape {
+                    width: 100%;
+                    background-color: #FC4449;
+                    margin-top: 3%;
+                    position: absolute;
+                }
+                
+                #rodape-interno {
+                    max-width: 980px;
+                    width: 100%;
+                    margin: 0 auto;
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                    color: #fff;
+                }
+                
+                #rodape-interno p {
+                    color: #fff;
+                }
+                
+                #rodape-interno li {
+                    list-style-type: none;
+                }
+                
+                #rodape-interno h4,
+                p {
+                    font-size: 1.5em;
+                }
+                
+                .midias {
+                    float: left;
+                    width: 30%;
+                    padding: 2%;
+                }
