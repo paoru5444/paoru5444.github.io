@@ -96,6 +96,7 @@
                 }
                 
                 #topo {
+                    margin-top: 0;
                     background-color: #6ebddb;
                     height: 130px;
                 }
